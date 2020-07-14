@@ -1,0 +1,8 @@
+(1) etc
+(2) paper
+(3) metal
+(4) glass
+(5) plastic
+(6) vinyl
+(7) styrofoam
+(8) food
