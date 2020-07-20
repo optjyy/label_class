@@ -6,3 +6,4 @@ plastic
 vinyl
 styrofoam
 food
+dirty
